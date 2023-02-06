@@ -14,7 +14,13 @@
 <body>
   <div class="content">
     <h1>Search after a user</h1>
-    <input type="text" name="name">
+    <input type="text" name="name" 
+    name="q"
+    autocapitalize="off"
+    autocomplete="off"
+    autocorrect="off"
+    spellcheck="false"
+    title="Rechercher">
     <div id="test"></div>
   </div>
  
