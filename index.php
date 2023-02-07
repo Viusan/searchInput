@@ -20,8 +20,8 @@
     autocomplete="off"
     autocorrect="off"
     spellcheck="false"
-    title="Rechercher">
-    <div id="test"></div>
+    title="Rechercher"> <!-- Attributes to hide autofill -->
+    <div id="test"></div><!-- Display data -->
   </div>
  
 </body>
