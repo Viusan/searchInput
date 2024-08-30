@@ -25,7 +25,7 @@
     */
     $arrayMedNavn = array(); //Creating a second array
 
-    for($var = 0; $var < 10; $var++){
+    for($var = 0; $var < 20; $var++){
       array_push($arrayMedNavn, $array[$var]['username']); //Putting data from array1 into array2
     }
     /*
